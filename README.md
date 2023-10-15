@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Neri
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data science projects
+- 🌱 I’m currently learning Data Science, Machine Learning and Generative AI
+- 💞️ I’m looking to collaborate on Data science, Machine Learning and Generative AI projects
 - 📫 How to reach me e.nerik@go.ugr.es | Tel: +34 650 90 54 70
 
 <!---
